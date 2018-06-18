@@ -7,7 +7,7 @@ Table of Contents
 
 
 - [Installation](#installation)
-- [Installation](#code)
+- [Installation](#code setup)
 
 
 ## Installation
