@@ -7,6 +7,8 @@ Table of Contents
 
 
 - [Installation](#installation)
+- [Installation](#code)
+
 
 ## Installation
 
@@ -16,3 +18,11 @@ Table of Contents
 - ng-serve
 
 ---
+
+## Code Setup
+
+> The suggested way to add routing
+
+```
+ng generate module app-routing --flat --module=app
+```
